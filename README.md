@@ -29,20 +29,50 @@ Role: AI Automation Engineer
 
 Specialization:
 
-- n8n Workflow Automation
-- AI Agent Development
-- API Integration
-- CRM Automation
-- Webhook Automation
-- WhatsApp Automation
-- Email Automation
-- Docker Deployment
+  • AI Workflow Automation
+  • n8n Workflow Development
+  • AI Agent Development
+  • Multi-Agent Systems
+  • OpenAI (ChatGPT) Integration
+  • Google Gemini Integration
+  • Claude AI Integration
+  • API Integration
+  • REST API & GraphQL
+  • Webhook Automation
+  • CRM Automation
+  • WhatsApp Cloud API
+  • Telegram Bot Development
+  • Discord Bot Automation
+  • Slack Automation
+  • Email Automation
+  • Google Workspace Automation
+  • Google Sheets Automation
+  • Airtable Automation
+  • Notion Automation
+  • Lead Generation Automation
+  • E-commerce Automation
+  • Shopify Automation
+  • WooCommerce Automation
+  • Stripe Integration
+  • Database Automation
+  • MySQL
+  • PostgreSQL
+  • MongoDB
+  • Supabase
+  • Docker
+  • Linux Server
+  • VPS Deployment
+  • Self-Hosted n8n
+  • Python
+  • JavaScript
+  • Git & GitHub
+  • RAG
 
 Learning:
 
 - MCP
 - LangGraph
-- RAG
+
 - Advanced AI Agents
 
 Location: Bangladesh
