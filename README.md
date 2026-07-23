@@ -5,26 +5,48 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Professional+n8n+Developer;AI+Agent+Developer;Workflow+Automation+Expert;OpenAI+%7C+Gemini+%7C+Claude;API+Integration+Specialist" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Automation+Engineer;Professional+n8n+Developer;AI+Agent+Developer;Workflow+Automation+Expert;OpenAI+%7C+Gemini+%7C+Claude;API+Integration+Specialist"/>
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sowmitrohalderbadhon&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/sowmitrohalderbadhon?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/sowmitrohalderbadhon?style=for-the-badge"/>
+
 </p>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-- 🤖 AI Automation Engineer
-- ⚡ Specialized in **n8n Workflow Automation**
-- 🧠 Building AI Agents with **OpenAI, Gemini & Claude**
-- 🔗 API Integration & Webhook Automation
-- 📊 CRM & Business Process Automation
-- 🛒 Shopify & WooCommerce Automation
-- 📈 Lead Generation Automation
-- 📧 Email & WhatsApp Automation
-- ☁️ Self Hosted n8n Deployment
-- 🌱 Learning MCP, LangGraph & Enterprise AI Systems
-- 💬 Ask me about **n8n, APIs, AI Automation, Docker & LLMs**
+```yaml
+Name: Sowmitro Halder Badhon
 
-📫 Email: **sowmitro2235@gmail.com**
+Role: AI Automation Engineer
+
+Specialization:
+
+- n8n Workflow Automation
+- AI Agent Development
+- API Integration
+- CRM Automation
+- Webhook Automation
+- WhatsApp Automation
+- Email Automation
+- Docker Deployment
+
+Learning:
+
+- MCP
+- LangGraph
+- RAG
+- Advanced AI Agents
+
+Location: Bangladesh
+```
 
 ---
 
@@ -33,26 +55,30 @@
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sowmitro-halder-badhon-elevatethecode-85764325a">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100041852018507" target="_blank">
-  <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="48" height="48"/>
+<a href="https://www.facebook.com/profile.php?id=100041852018507">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+<a href="mailto:sowmitro2235@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/sowmitrohalderbadhon">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-# 🚀 Tech Stack
+# 💻 Languages & Tools
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,bash,linux,docker,kubernetes,git,github,githubactions,vscode,postman,mysql,postgresql,mongodb,redis,supabase,firebase,aws,gcp,cloudflare,terraform,nginx,fastapi&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,bash,linux,docker,git,github,vscode,postman,mysql,postgresql,mongodb,redis,supabase,firebase,aws,cloudflare,fastapi&theme=dark"/>
 
 </p>
 
@@ -68,10 +94,6 @@
 
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
 
-<img src="https://img.shields.io/badge/LangGraph-2E8B57?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MCP-8A2BE2?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge"/>
@@ -84,8 +106,6 @@
 
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
@@ -93,8 +113,6 @@
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
 
 </p>
 
@@ -104,93 +122,65 @@
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sowmitrohalderbadhon&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sowmitrohalderbadhon&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=sowmitrohalderbadhon&theme=tokyonight"/>
+<img height="170" src="https://streak-stats.demolab.com?user=sowmitrohalderbadhon&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitrohalderbadhon&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitrohalderbadhon&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophy
+# 🚀 Services
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sowmitrohalderbadhon&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sowmitrohalderbadhon&theme=tokyo-night"/>
-
-</p>
+- 🤖 AI Agent Development
+- ⚡ n8n Workflow Automation
+- 🔗 REST API Integration
+- 📨 Webhook Automation
+- 📊 CRM Automation
+- 📱 WhatsApp Automation
+- 📧 Email Automation
+- 📄 Google Sheets Automation
+- 🗂 Airtable Automation
+- 🛒 Shopify Automation
+- 🏪 WooCommerce Automation
+- 🐳 Docker Deployment
+- ☁️ Self Hosted n8n
 
 ---
 
-# 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sowmitrohalderbadhon&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-</p>
-
----
-
-# 💼 Featured Projects
-
-🚀 AI Agent Development
-
-⚡ n8n Workflow Automation
-
-📱 WhatsApp Automation
-
-📊 CRM Automation
-
-📧 Email Automation
-
-🛒 Shopify Automation
-
-🏪 WooCommerce Automation
-
-🔗 API Integration
-
-🤖 OpenAI & Gemini Integrations
-
-☁️ Self-Hosted n8n
-
----
-
-# 📚 Currently Learning
+# 🎯 Currently Learning
 
 - MCP (Model Context Protocol)
 - LangGraph
-- Advanced AI Agents
-- RAG Systems
-- Vector Databases
-- Enterprise Automation
+- RAG
+- Vector Database
+- Enterprise AI Automation
+
+---
+
+# 📌 Featured Projects
+
+- 🤖 AI Agent Platform
+- ⚡ n8n Workflow Collection
+- 📱 WhatsApp Bot
+- 📊 CRM Automation
+- 🔗 API Integration
+- 🛒 Shopify Automation
 
 ---
 
 # 💡 Quote
 
-> **"Automate repetitive work. Build intelligent systems. Scale without limits." 🚀**
+> **"Automate repetitive work. Build intelligent systems. Scale without limits."**
 
 ---
 
 <p align="center">
-
-### ⭐ If you like my work, don't forget to star my repositories! ⭐
-
+⭐ Thanks for visiting my profile! ⭐
 </p>
