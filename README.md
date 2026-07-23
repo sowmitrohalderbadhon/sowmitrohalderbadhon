@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Sowmitro Halder Badhon</h1>
+<h1 align="center">Hi 👋, I'm Sowmitro Halder Badhon </h1>
 
 <h3 align="center">
-🚀 AI Automation Engineer | n8n Expert | AI Agent Developer | API Integration Specialist
+🚀 AI Automation Engineer | n8n Expert | AI Agent Developer | API Integration Specialist | CEO of NeuralFlow Technologies .
 </h3>
 
 <p align="center">
