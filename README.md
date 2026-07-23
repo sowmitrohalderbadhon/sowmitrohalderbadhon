@@ -36,8 +36,8 @@
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://www.facebook.com/profile.php?id=100041852018507">
-<img src="https://skillicons.dev/icons?i=facebook"/>
+<a href="https://www.facebook.com/profile.php?id=100041852018507" target="_blank">
+  <img src="https://cdn.simpleicons.org/facebook/1877F2" alt="Facebook" width="48" height="48"/>
 </a>
 
 <a href="https://github.com/sowmitrohalderbadhon">
@@ -168,7 +168,7 @@
 
 🤖 OpenAI & Gemini Integrations
 
-☁️ Self Hosted n8n
+☁️ Self-Hosted n8n
 
 ---
 
@@ -191,6 +191,6 @@
 
 <p align="center">
 
-### ⭐ If you like my work, don't forget to Star my repositories! ⭐
+### ⭐ If you like my work, don't forget to star my repositories! ⭐
 
 </p>
