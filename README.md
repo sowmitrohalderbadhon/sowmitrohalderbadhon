@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sowmitro Halder Badhon </h1>
+<h1 align="center">Hello 👋, I'm Sowmitro Halder Badhon </h1>
 
 <h3 align="center">
 🚀 AI Automation Engineer | n8n Expert | AI Agent Developer | API Integration Specialist | CEO of NeuralFlow Technologies .
@@ -9,26 +9,22 @@
 </p>
 
 <p align="center">
-
 <img src="https://komarev.com/ghpvc/?username=sowmitrohalderbadhon&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/followers/sowmitrohalderbadhon?style=for-the-badge"/>
-
 <img src="https://img.shields.io/github/stars/sowmitrohalderbadhon?style=for-the-badge"/>
-
 </p>
 
----
-
+=========================================
 # 👨‍💻 About Me
-
+=========================================
 ```yaml
 Name: Sowmitro Halder Badhon
 
+Role: CEO of NeuralFlow Technologies 
 Role: Chief AI Automation Engineer
-
+=========================================
 Specialization:
-
+=========================================
   • AI Workflow Automation
   • n8n Workflow Development
   • AI Agent Development
@@ -67,21 +63,18 @@ Specialization:
   • JavaScript
   • Git & GitHub
   • RAG
-
+=========================================
 Learning:
-
+=========================================
 - MCP
 - LangGraph
-
 - Advanced AI Agents
 
 Location: Bangladesh
 ```
-
----
-
+=========================================
 # 🌐 Connect With Me
-
+=========================================
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sowmitro-halder-badhon-elevatethecode-85764325a">
@@ -101,11 +94,9 @@ Location: Bangladesh
 </a>
 
 </p>
-
----
-
+=========================================
 # 💻 Languages & Tools
-
+=========================================
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,bash,linux,docker,git,github,vscode,postman,mysql,postgresql,mongodb,redis,supabase,firebase,aws,cloudflare,fastapi&theme=dark"/>
@@ -115,59 +106,36 @@ Location: Bangladesh
 <p align="center">
 
 <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google-gemini&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Webhooks-FF9800?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=airtable&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Google_Sheets-34A853?style=for-the-badge&logo=googlesheets&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Shopify-95BF47?style=for-the-badge&logo=shopify&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
-
 </p>
 
----
-
+=========================================
 # 📊 GitHub Statistics
-
+=========================================
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sowmitrohalderbadhon&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170" src="https://streak-stats.demolab.com?user=sowmitrohalderbadhon&theme=tokyonight&hide_border=true"/>
-
 </p>
-
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitrohalderbadhon&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </p>
 
----
-
+=========================================
 # 🚀 Services
-
+=========================================
 - 🤖 AI Agent Development
 - ⚡ n8n Workflow Automation
 - 🔗 REST API Integration
@@ -181,21 +149,18 @@ Location: Bangladesh
 - 🏪 WooCommerce Automation
 - 🐳 Docker Deployment
 - ☁️ Self Hosted n8n
-
----
-
+=========================================
 # 🎯 Currently Learning
-
+=========================================
 - MCP (Model Context Protocol)
 - LangGraph
 - RAG
 - Vector Database
 - Enterprise AI Automation
 
----
-
+=========================================
 # 📌 Featured Projects
-
+=========================================
 - 🤖 AI Agent Platform
 - ⚡ n8n Workflow Collection
 - 📱 WhatsApp Bot
