@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/github/stars/sowmitrohalderbadhon?style=for-the-badge"/>
 </p>
 
-=========================================
+
 # 👨‍💻 About Me
 =========================================
 ```yaml
@@ -22,7 +22,7 @@ Name: Sowmitro Halder Badhon
 
 Role: CEO of NeuralFlow Technologies 
 Role: Chief AI Automation Engineer
-=========================================
+
 Specialization:
 =========================================
   • AI Workflow Automation
@@ -63,7 +63,7 @@ Specialization:
   • JavaScript
   • Git & GitHub
   • RAG
-=========================================
+
 Learning:
 =========================================
 - MCP
@@ -72,9 +72,9 @@ Learning:
 
 Location: Bangladesh
 ```
-=========================================
+
 # 🌐 Connect With Me
-=========================================
+
 <p align="center">
 
 <a href="https://www.linkedin.com/in/sowmitro-halder-badhon-elevatethecode-85764325a">
@@ -94,9 +94,9 @@ Location: Bangladesh
 </a>
 
 </p>
-=========================================
+
 # 💻 Languages & Tools
-=========================================
+
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=python,js,nodejs,ts,bash,linux,docker,git,github,vscode,postman,mysql,postgresql,mongodb,redis,supabase,firebase,aws,cloudflare,fastapi&theme=dark"/>
@@ -122,18 +122,17 @@ Location: Bangladesh
 <img src="https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white"/>
 </p>
 
-=========================================
+
 # 📊 GitHub Statistics
-=========================================
+
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sowmitrohalderbadhon&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=sowmitrohalderbadhon&theme=tokyonight&hide_border=true"/>
 </p>
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowmitrohalderbadhon&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-=========================================
+
 # 🚀 Services
 =========================================
 - 🤖 AI Agent Development
@@ -149,7 +148,7 @@ Location: Bangladesh
 - 🏪 WooCommerce Automation
 - 🐳 Docker Deployment
 - ☁️ Self Hosted n8n
-=========================================
+
 # 🎯 Currently Learning
 =========================================
 - MCP (Model Context Protocol)
@@ -158,7 +157,7 @@ Location: Bangladesh
 - Vector Database
 - Enterprise AI Automation
 
-=========================================
+
 # 📌 Featured Projects
 =========================================
 - 🤖 AI Agent Platform
