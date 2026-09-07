@@ -77,7 +77,7 @@ Location: Bangladesh
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/sowmitro-halder-badhon-elevatethecode-85764325a">
+<a href="https://www.linkedin.com/in/sowmitro-halder-badhon-ai-automation-engineer-85764325a/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
